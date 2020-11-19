@@ -17,19 +17,14 @@ namespace ekvationen
 
                 Console.Write(" > Enter first operator: ");
                 ope[0] = Console.ReadLine();
-               
                 Console.Write(" > Enter second operator: ");
                 ope[1] = Console.ReadLine();
-               
                 Console.Write(" > Enter first term: ");
                 num[0] = Convert.ToInt32(Console.ReadLine());
-                
                 Console.Write(" > Enter second term: ");
                 num[1] = Convert.ToInt32(Console.ReadLine());
-               
                 Console.Write(" > Enter third term: ");
                 num[2] = Convert.ToInt32(Console.ReadLine());
-                
                 string[] sum = new string[7];
                 sum[0] = Convert.ToString(num[0]);
                 sum[1] = ope[0];
@@ -56,19 +51,17 @@ namespace ekvationen
 
                     Console.WriteLine();
 
+
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("”> The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("”> The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("”> Cool, now you have a hundred, clap clap”");
                     }
 
 
@@ -90,17 +83,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("”> The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("”> The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("”> Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -119,17 +109,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("”> The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("”> The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("”> Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -148,7 +135,6 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("”> The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
@@ -158,7 +144,6 @@ namespace ekvationen
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("”> Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -177,17 +162,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("”> The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("”> The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("”> Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -206,17 +188,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("”> The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("”> The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("”> Cool, now you have a hundred, clap clap”");
                     }
 
                 }
@@ -236,17 +215,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("”> The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("”> The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("”> Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -266,17 +242,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("> ”The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("> ”The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("> ”Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -295,17 +268,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("> ”The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("> ”The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("> ”Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -324,17 +294,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("> ”The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("> ”The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("> ”Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -352,17 +319,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("> ”The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("> ”The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("> ”Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -381,17 +345,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("> ”The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("> ”The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("> ”Cool, now you have a hundred, clap clap”");
                     }
                 }
 
@@ -411,17 +372,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("> ”The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("> ”The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("> ”Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -440,17 +398,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("> ”The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("> ”The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("> ”Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -469,17 +424,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("> ”The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("> ”The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("> ”Cool, now you have a hundred, clap clap”");
                     }
                 }
                 else
@@ -497,17 +449,14 @@ namespace ekvationen
 
                     if (num[3] < 100)
                     {
-                        Console.WriteLine("> ”The sum is less then a hundred”");
                     }
                     else
                         if (num[3] > 100)
                     {
-                        Console.WriteLine("> ”The sum is more then a hundred”");
                     }
                     else
                         if (num[3] == 100)
                     {
-                        Console.WriteLine("> ”Cool, now you have a hundred, clap clap”");
                     }
                 }
 
